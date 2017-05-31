@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  Test
 //
-//  Created by Ankit Varshney on 30/05/17.
-//  Copyright © 2017 Rohit Pathak. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
